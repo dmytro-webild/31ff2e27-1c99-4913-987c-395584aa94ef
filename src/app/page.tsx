@@ -183,12 +183,12 @@ export default function LandingPage() {
         <PricingCardThree
           plans={[
             {
-              id: "1",              price: "$299/month",              name: "Starter",              buttons: [
+              id: "1",              price: "$299/month",              name: "Growth",              buttons: [
                 { text: "Start Free Trial", href: "/signup" },
                 { text: "Book Demo", href: "/contact" }
               ],
               features: [
-                "100M API calls/month",                "Single AI model",                "Basic analytics dashboard",                "Email support",                "Standard SLA 99.5%"
+                "Perfect for teams just exploring AI",                "100M API calls/month",                "Single AI model",                "Basic analytics dashboard",                "Email support",                "Standard SLA 99.5%"
               ]
             },
             {
