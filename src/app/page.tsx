@@ -269,7 +269,7 @@ export default function LandingPage() {
           tagIcon={Rocket}
           tagAnimation="slide-up"
           title="Start Your AI Journey Today"
-          description="Join thousands of companies leveraging AIVerse to unlock intelligent automation. Get started with a free trial—no credit card required."
+          description="Join 10,000+ global companies already using AIVerse to unlock intelligent automation. Get started with a free trial—no credit card required."
           buttons={[
             { text: "Start Free Trial", href: "/signup" },
             { text: "Schedule Demo", href: "/contact" }
